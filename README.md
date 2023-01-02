@@ -33,8 +33,8 @@ I love programming and working with different frameworks.
 
 ### Contact me:
 
-- Personal website: https://ahmadalinaghian.netlify.app/.
-- Email: [![Email](https://img.shields.io/badge/ah.jahangiry@gmail.com-6001D2?style=flat-square&logo=Yahoo!&logoColor=white)](mailto:ah.jahangiry@gmail.com)
+- Personal website: https://.../.
+- Email: [![Email](https://img.shields.io/badge/ah.jahangiry@gmail.com-6001D2?style=flat-square&logo=gmail!&logoColor=white)](mailto:ah.jahangiry@gmail.com)
 
 ### Github Stats:
 
